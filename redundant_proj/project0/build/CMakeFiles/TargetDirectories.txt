@@ -1,0 +1,3 @@
+/home/parallels/Documents/Storage_System/project/build/CMakeFiles/myfs.dir
+/home/parallels/Documents/Storage_System/project/build/CMakeFiles/edit_cache.dir
+/home/parallels/Documents/Storage_System/project/build/CMakeFiles/rebuild_cache.dir

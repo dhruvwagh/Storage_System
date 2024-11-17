@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -pthread CMakeFiles/myfs.dir/main.cpp.o CMakeFiles/myfs.dir/myfs.cpp.o CMakeFiles/myfs.dir/murmurhash3.cpp.o CMakeFiles/myfs.dir/ssd_model.cpp.o -o myfs  -lfuse3 -lpthread 
